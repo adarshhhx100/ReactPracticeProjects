@@ -3,3 +3,42 @@ npm create vite@latest my-app -- --template react
 cd my-app
 npm install
 npm run dev
+
+# React code structure
+            index.html
+                │
+                ▼
+      ┌────────────────────┐
+      │  <div id="root" /> │ ← HTML entry point
+      └────────────────────┘
+                │
+                ▼
+           main.jsx
+                │
+     ┌───────────────────────┐
+     │ ReactDOM.createRoot() │
+     │     .render(<App />)  │ ← Renders App.jsx
+     └───────────────────────┘
+                │
+                ▼
+            App.jsx
+                │
+ ┌──────────────────────────────┐
+ │  Your App’s Root Component   │
+ │  - Handles state             │
+ │  - Loads components          │
+ │    • <TaskInput />           │
+ │    • <TaskList />            │
+ └──────────────────────────────┘
+                │
+                ▼
+     Other Components (UI tree)
+    ┌────────────┐   ┌────────────┐
+    │ TaskInput  │   │ TaskList   │
+    └────────────┘   └────────────┘
+                          │
+                          ▼
+                    ┌────────────┐
+                    │ TaskItem   │
+                    └────────────┘
+

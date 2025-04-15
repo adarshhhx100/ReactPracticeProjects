@@ -42,3 +42,21 @@ npm run dev
                     │ TaskItem   │
                     └────────────┘
 
+📦 daily-planner
+├── 📄 index.html
+├── 📁 public
+│   └── ...
+├── 📁 src
+│   ├── 📄 main.jsx              // React entry point
+│   ├── 📄 App.jsx               // Root component
+│   ├── 📁 components
+│   │   ├── 📄 TaskInput.jsx     // Input field for new tasks
+│   │   ├── 📄 TaskList.jsx      // Renders list of tasks
+│   │   └── 📄 TaskItem.jsx      // Individual task item
+│   ├── 📁 utils
+│   │   └── 📄 localStorage.js   // (Optional) for saving/loading tasks
+│   └── 📄 index.css             // Global styles
+├── 📄 package.json
+├── 📄 vite.config.js
+└── 📄 README.md
+

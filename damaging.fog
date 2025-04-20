@@ -1,74 +1,82 @@
-## 100xDevs Cohort 3 Slides Link
+# 100xDevs Cohort 3 Resources
 
-### 100xDevs Cohort 3 GitHub Repo - https://github.com/100xdevs-cohort-3
+This repository contains links to the slides and other resources for the 100xDevs Cohort 3 program.
+
+**GitHub Repository:** [https://github.com/100xdevs-cohort-3](https://github.com/100xdevs-cohort-3)
+
+## Weekly Resources
 
 ### Week 01 - Orientation, HTML, CSS, Basic JS
-- **1.1 - Web Dev + Devops Orientation** - https://petal-estimate-4e9.notion.site/Orientation-703d935ef4564fe1bc61e60e83f4c409
-- **1.2 - Basics of JavaScript** - https://projects.100xdevs.com/tracks/javascript-1/Javascript-101-1
+- **1.1 - Web Dev + Devops Orientation:** [https://petal-estimate-4e9.notion.site/Orientation-703d935ef4564fe1bc61e60e83f4c409](https://petal-estimate-4e9.notion.site/Orientation-703d935ef4564fe1bc61e60e83f4c409)
+- **1.2 - Basics of JavaScript:** [https://projects.100xdevs.com/tracks/javascript-1/Javascript-101-1](https://projects.100xdevs.com/tracks/javascript-1/Javascript-101-1)
 
 ### Week 02 - Async JS
-- **2.1 - Async JS** - https://projects.100xdevs.com/tracks/async-js-1/Asynchronous-Javascript--Callbacks-and-more-1
-- **2.1 - Promises** - https://projects.100xdevs.com/tracks/promises-async-await/Promises-and-async--await-1
+- **2.1 - Async JS:** [https://projects.100xdevs.com/tracks/async-js-1/Asynchronous-Javascript--Callbacks-and-more-1](https://projects.100xdevs.com/tracks/async-js-1/Asynchronous-Javascript--Callbacks-and-more-1)
+- **2.1 - Promises:** [https://projects.100xdevs.com/tracks/promises-async-await/Promises-and-async--await-1](https://projects.100xdevs.com/tracks/promises-async-await/Promises-and-async--await-1)
 
 ### Week 02 - Offline Videos
-- **Slides Link** - https://projects.100xdevs.com/tracks/installing-node-assignments/-1
-- **3. Installing Node, How to Solve an Assignment Slides Link** - https://petal-estimate-4e9.notion.site/Installing-node-Solving-assignments-3dfb37111f9e48ca80caac66dbe97331
-- **5. Callback Hell, Rejects and async/await Slides Link** - https://projects.100xdevs.com/tracks/promises-async-await/Promises-and-async--await-1
+- **Slides Link:** [https://projects.100xdevs.com/tracks/installing-node-assignments/-1](https://projects.100xdevs.com/tracks/installing-node-assignments/-1)
+- **3. Installing Node, How to Solve an Assignment Slides Link:** [https://petal-estimate-4e9.notion.site/Installing-node-Solving-assignments-3dfb37111f9e48ca80caac66dbe97331](https://petal-estimate-4e9.notion.site/Installing-node-Solving-assignments-3dfb37111f9e48ca80caac66dbe97331)
+- **5. Callback Hell, Rejects and async/await Slides Link:** [https://projects.100xdevs.com/tracks/promises-async-await/Promises-and-async--await-1](https://projects.100xdevs.com/tracks/promises-async-await/Promises-and-async--await-1)
 
 ### Week 03 - DOM
-- **3.1 - DOM Simple** - https://projects.100xdevs.com/tracks/dom-1/Basics-of-DOM-1
-- **3.2 - DOM Advance** - https://projects.100xdevs.com/tracks/dom-2/DOM-Part-2--1
+- **3.1 - DOM Simple:** [https://projects.100xdevs.com/tracks/dom-1/Basics-of-DOM-1](https://projects.100xdevs.com/tracks/dom-1/Basics-of-DOM-1)
+- **3.2 - DOM Advance:** [https://projects.100xdevs.com/tracks/dom-2/DOM-Part-2--1](https://projects.100xdevs.com/tracks/dom-2/DOM-Part-2--1)
 
 ### Week 04 - Node.js and HTTP
-- **4.1 - Node.js, Bun and JS Runtimes** - https://petal-estimate-4e9.notion.site/Node-js-Bun-and-JS-runtimes-a09a41ccd61c4f498e55750c9a1c9b34
-- **4.2 - HTTP Servers** - https://petal-estimate-4e9.notion.site/Intro-to-HTTP-26c5803f153b4401aa76e9fac08ac427
+- **4.1 - Node.js, Bun and JS Runtimes:** [https://petal-estimate-4e9.notion.site/Node-js-Bun-and-JS-runtimes-a09a41ccd61c4f498e55750c9a1c9b34](https://petal-estimate-4e9.notion.site/Node-js-Bun-and-JS-runtimes-a09a41ccd61c4f498e55750c9a1c9b34)
+- **4.2 - HTTP Servers:** [https://petal-estimate-4e9.notion.site/Intro-to-HTTP-26c5803f153b4401aa76e9fac08ac427](https://petal-estimate-4e9.notion.site/Intro-to-HTTP-26c5803f153b4401aa76e9fac08ac427)
 
 ### Week 04 - Offline Videos
-- **Express and HTTP Server | Postman Slides Link** - https://100x-b-mcdn.akamai.net.in/cohort-2-slides/express2.pdf
+- **Express and HTTP Server | Postman Slides Link:** [https://100x-b-mcdn.akamai.net.in/cohort-2-slides/express2.pdf](https://100x-b-mcdn.akamai.net.in/cohort-2-slides/express2.pdf)
 
 ### Week 05
-- **5.1 - Headers, Query params and Express** - https://petal-estimate-4e9.notion.site/HTTP-Deep-dive-d59b6336fa5a46daa56c21063578d400
-- **5.2 - Middlewares and Cors** - https://petal-estimate-4e9.notion.site/HTTP-Deep-dive-d59b6336fa5a46daa56c21063578d400
+- **5.1 - Headers, Query params and Express:** [https://petal-estimate-4e9.notion.site/HTTP-Deep-dive-d59b6336fa5a46daa56c21063578d400](https://petal-estimate-4e9.notion.site/HTTP-Deep-dive-d59b6336fa5a46daa56c21063578d400)
+- **5.2 - Middlewares and Cors:** [https://petal-estimate-4e9.notion.site/HTTP-Deep-dive-d59b6336fa5a46daa56c21063578d400](https://petal-estimate-4e9.notion.site/HTTP-Deep-dive-d59b6336fa5a46daa56c21063578d400)
 
 ### Week 05 - Offline Videos
-- **Git and GitHub Slides Link** - https://100x-b-mcdn.akamai.net.in/cohort-2-slides/Git%20basics%20.pdf
+- **Git and GitHub Slides Link:** [https://100x-b-mcdn.akamai.net.in/cohort-2-slides/Git%20basics%20.pdf](https://100x-b-mcdn.akamai.net.in/cohort-2-slides/Git%20basics%20.pdf)
 
 ### Week 06
-- **6.1 - HTTP Deep Dive** - https://petal-estimate-4e9.notion.site/Authentincation-a4b43c7cc1d14535a7b5b366080095fa?pvs=74
-- **6.2 - Auth and Connecting FE to BE** - https://petal-estimate-4e9.notion.site/Authentincation-a4b43c7cc1d14535a7b5b366080095fa?pvs=74
+- **6.1 - HTTP Deep Dive:** [https://petal-estimate-4e9.notion.site/Authentincation-a4b43c7cc1d14535a7b5b366080095fa?pvs=74](https://petal-estimate-4e9.notion.site/Authentincation-a4b43c7cc1d14535a7b5b366080095fa?pvs=74)
+- **6.2 - Auth and Connecting FE to BE:** [https://petal-estimate-4e9.notion.site/Authentincation-a4b43c7cc1d14535a7b5b366080095fa?pvs=74](https://petal-estimate-4e9.notion.site/Authentincation-a4b43c7cc1d14535a7b5b366080095fa?pvs=74)
 
 ### Week 07 - MongoDB
-- **7.1 - MongoDB** - https://petal-estimate-4e9.notion.site/Databases-and-MongoDb-1017dfd107358065a996cda5ed89682e
-- **7.2 - Password, Zod** - https://petal-estimate-4e9.notion.site/Databases-and-MongoDb-1017dfd107358065a996cda5ed89682e
+- **7.1 - MongoDB:** [https://petal-estimate-4e9.notion.site/Databases-and-MongoDb-1017dfd107358065a996cda5ed89682e](https://petal-estimate-4e9.notion.site/Databases-and-MongoDb-1017dfd107358065a996cda5ed89682e)
+- **7.2 - Password, Zod:** [https://petal-estimate-4e9.notion.site/Databases-and-MongoDb-1017dfd107358065a996cda5ed89682e](https://petal-estimate-4e9.notion.site/Databases-and-MongoDb-1017dfd107358065a996cda5ed89682e)
 
 ### Week 08 - Course Selling App
-- **8.1 - Backend of Course Selling App** - https://github.com/100xdevs-cohort-3/week-8-course-selling-project
-- **8.2 - Backend of Course Selling App - Part 2** - https://github.com/100xdevs-cohort-3/week-8-course-selling-project
+- **8.1 - Backend of Course Selling App:** [https://github.com/100xdevs-cohort-3/week-8-course-selling-project](https://github.com/100xdevs-cohort-3/week-8-course-selling-project)
+- **8.2 - Backend of Course Selling App - Part 2:** [https://github.com/100xdevs-cohort-3/week-8-course-selling-project](https://github.com/100xdevs-cohort-3/week-8-course-selling-project)
 
 ### Week 08 - Offline Videos
-- **Mongo Deep Dive** - https://100x-b-mcdn.akamai.net.in/cohort-2-slides/Week_4.3.pdf
+- **Mongo Deep Dive:** [https://100x-b-mcdn.akamai.net.in/cohort-2-slides/Week_4.3.pdf](https://100x-b-mcdn.akamai.net.in/cohort-2-slides/Week_4.3.pdf)
 
 ### Week 09 - React
-- **9.1 - React Basic** - https://www.canva.com/design/DAGStTo7_1Y/H-uoNlkdJ2X4P3LbOME45Q/edit
-- **9.2 - React UseState** - https://petal-estimate-4e9.notion.site/React-Part-2-1177dfd1073580069172fc54e33929c0
-- **9.3 - React From Basic Part 1 (Recorded)** - https://petal-estimate-4e9.notion.site/React-Part-1-1177dfd1073580069172fc54e33929c0
-- **9.4 - React From Basic Part 2 (Recorded)** - https://petal-estimate-4e9.notion.site/React-Part-1-1177dfd1073580069172fc54e33929c0
+- **9.1 - React Basic:** [https://www.canva.com/design/DAGStTo7_1Y/H-uoNlkdJ2X4P3LbOME45Q/edit](https://www.canva.com/design/DAGStTo7_1Y/H-uoNlkdJ2X4P3LbOME45Q/edit)
+- **9.2 - React UseState:** [https://petal-estimate-4e9.notion.site/React-Part-2-1177dfd1073580069172fc54e33929c0](https://petal-estimate-4e9.notion.site/React-Part-2-1177dfd1073580069172fc54e33929c0)
+- **9.3 - React From Basic Part 1 (Recorded):** [https://petal-estimate-4e9.notion.site/React-Part-1-1177dfd1073580069172fc54e33929c0](https://petal-estimate-4e9.notion.site/React-Part-1-1177dfd1073580069172fc54e33929c0)
+- **9.4 - React From Basic Part 2 (Recorded):** [https://petal-estimate-4e9.notion.site/React-Part-1-1177dfd1073580069172fc54e33929c0](https://petal-estimate-4e9.notion.site/React-Part-1-1177dfd1073580069172fc54e33929c0)
 
 ### Week 10
-- **10.1 - React Part 2 (SPAs, Routing)** - https://petal-estimate-4e9.notion.site/React-Part-1-1177dfd1073580069172fc54e33929c0
-- **10.2 - React Part 3 (Context API, Rolling Up The State)** - https://petal-estimate-4e9.notion.site/React-Part-1-1177dfd1073580069172fc54e33929c0
+- **10.1 - React Part 2 (SPAs, Routing):** [https://petal-estimate-4e9.notion.site/React-Part-1-1177dfd1073580069172fc54e33929c0](https://petal-estimate-4e9.notion.site/React-Part-1-1177dfd1073580069172fc54e33929c0)
+- **10.2 - React Part 3 (Context API, Rolling Up The State):** [https://petal-estimate-4e9.notion.site/React-Part-1-1177dfd1073580069172fc54e33929c0](https://petal-estimate-4e9.notion.site/React-Part-1-1177dfd1073580069172fc54e33929c0)
 
 ### Week 11
-- **11.1 - Custom Hooks** - https://petal-estimate-4e9.notion.site/19-Custom-hooks-11d7dfd107358002a165e23cf79d67d2
-- **11.2 - Recoil** - https://petal-estimate-4e9.notion.site/Recoil-1247dfd107358016bdb1ea1bb52e4a68
-- **11.3 - Recoil Deep Dive (Offline)** - https://drive.google.com/file/d/1p7WAMz3X38vkbQMFW6-8kmKYo3dHtcLv/view
-    - **GitHub Code Link** - https://github.com/100xdevs-cohort-2/7.4
+- **11.1 - Custom Hooks:** [https://petal-estimate-4e9.notion.site/19-Custom-hooks-11d7dfd107358002a165e23cf79d67d2](https://petal-estimate-4e9.notion.site/19-Custom-hooks-11d7dfd107358002a165e23cf79d67d2)
+- **11.2 - Recoil:** [https://petal-estimate-4e9.notion.site/Recoil-1247dfd107358016bdb1ea1bb52e4a68](https://petal-estimate-4e9.notion.site/Recoil-1247dfd107358016bdb1ea1bb52e4a68)
+- **11.3 - Recoil Deep Dive (Offline):** [https://drive.google.com/file/d/1p7WAMz3X38vkbQMFW6-8kmKYo3dHtcLv/view](https://drive.google.com/file/d/1p7WAMz3X38vkbQMFW6-8kmKYo3dHtcLv/view)
+    - **GitHub Code Link:** [https://github.com/100xdevs-cohort-2/7.4](https://github.com/100xdevs-cohort-2/7.4)
 
 ### Week 12 - UI/UX by Keshav
-- **12.1 - Ui-Ux Primitives by Keshav - Part 1** - https://pricey-pyjama-7d5.notion.site/UI-UX-Primitives-12521c8092ab809bb9cfe39227759220
-- **12.2 - Ui-Ux Primitives by Keshav - Part 2** - https://pricey-pyjama-7d5.notion.site/UI-UX-Primitives-12521c8092ab809bb9cfe39227759220
-    - **Lecture Codes** - https://www.figma.com/design/ZBK9jxBAZbnaoYPLbbiLHr/ZubaCanceri?node-id=0-1&t=OdXhRcZTyJfWLOvs-1
+- **12.1 - Ui-Ux Primitives by Keshav - Part 1:** [https://pricey-pyjama-7d5.notion.site/UI-UX-Primitives-12521c8092ab809bb9cfe39227759220](https://pricey-pyjama-7d5.notion.site/UI-UX-Primitives-12521c8092ab809bb9cfe39227759220)
+- **12.2 - Ui-Ux Primitives by Keshav - Part 2:** [https://pricey-pyjama-7d5.notion.site/UI-UX-Primitives-12521c8092ab809bb9cfe39227759220](https://pricey-pyjama-7d5.notion.site/UI-UX-Primitives-12521c8092ab809bb9cfe39227759220)
+    - **Lecture Codes:** [https://www.figma.com/design/ZBK9jxBAZbnaoYPLbbiLHr/ZubaCanceri?node-id=0-1&t=OdXhRcZTyJfWLOvs-1](https://www.figma.com/design/ZBK9jxBAZbnaoYPLbbiLHr/ZubaCanceri?node-id=0-1&t=OdXhRcZTyJfWLOvs-1)
 
+### Week 13 - Tailwind
+- **13.1 - Tailwind, Ref Arrays and Building Components:** [https://www.canva.com/design/DAGVU1RXwn0/EBNpEgL7LxVUQd6ThorItA/edit?utm_content=DAGVU1RXwn0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGVU1RXwn0/EBNpEgL7LxVUQd6ThorItA/edit?utm_content=DAGVU1RXwn0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **13.2 - Tailwind Part 2, Creating Sidebars:** [https://www.canva.com/design/DAGVU1RXwn0/EBNpEgL7LxVUQd6ThorItA/edit?utm_content=DAGVU1RXwn0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGVU1RXwn0/EBNpEgL7LxVUQd6ThorItA/edit?utm_content=DAGVU1RXwn0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+    - **GitHub Link:** [https://github.com/100xdevs-cohort-3/week-13-otp-box](https://github.com/10
 ### Week 13 - Tailwind
 - **13.1 - Tailwind, Ref Arrays and Building Components** - https://www.canva.com/design/DAGVU1RXwn0/EBNpEgL7LxVUQd6ThorItA/edit?utm_content=DAGVU1RXwn0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - **13.2 - Tailwind Part 2, Creating Sidebars** - https://www.canva.com/design/DAGVU1RXwn0/EBNpEgL7LxVUQd6ThorItA/edit?utm_content=DAGVU1RXwn0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

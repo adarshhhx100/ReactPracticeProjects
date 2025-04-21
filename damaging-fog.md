@@ -1,4 +1,4 @@
-
+# 100xDevs Cohort 3 Resources
 
 This repository contains links to the slides and other resources for the 100xDevs Cohort 3 program.
 

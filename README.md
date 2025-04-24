@@ -1,1 +1,1 @@
-# study material of web devlopment.
+# study material.
